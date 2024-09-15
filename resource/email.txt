@@ -1,0 +1,6 @@
+尊敬的Teacher老师：
+    您好！我叫Student，来自MySchool的Major专业。。。
+    School学术氛围浓厚，能够进入这里学习也一直是我的梦想。。。
+
+学生：Student
+Year年Month月Day日

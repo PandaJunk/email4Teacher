@@ -1,0 +1,12 @@
+myEmail: "自己的邮箱"
+student: "姓名"
+mySchool: "自己的学校"
+major: "自己的专业"
+txtPath: "邮件模板txt的路径" # 例如：resource/email.txt
+auth: "邮箱的授权码"
+smtpHost: "smtp地址" # 例如："smtp.163.com“
+smtpPort: 465
+subject: "邮件主题"
+pdfPath: "简历路径" # 例如：resource/简历.pdf
+teachers: # 老师列表，可以将一个学校的老师写在一个yaml文件中，然后在config.yaml中引用yaml文件路径
+    - "resource/list/example.yaml"

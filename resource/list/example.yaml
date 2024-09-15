@@ -1,0 +1,6 @@
+school: "梦校名字"
+teachers:
+  - name: "老师1"
+    email: "老师1的邮箱"
+  - name: "老师2"
+    email: "老师2的邮箱"
